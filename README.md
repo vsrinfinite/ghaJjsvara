@@ -12,3 +12,5 @@ This can be seen as a small step in building a much larger accentuation engine b
 For compounds, please use a hyphen between the members of the compound.
 
 A much larger accentuation project is underway, attempting to account for the entire Sanskrit accentuation regime. 
+
+To access the webpage, click [here](<https://vsrinfinite.github.io/ghaJsvara/ghaJsvara.html>).
