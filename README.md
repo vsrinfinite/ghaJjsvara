@@ -9,4 +9,6 @@ This can be seen as a small step in building a much larger accentuation engine b
 * "tyā́garā́gahā́sakúhaśváṭhakráthānām" - AA 6.1.216
 * "thā́thaghañktā́jabítrakā́ṇām"- AA 6.2.144
 
-Of these, the last one is not implemented for the sake of simplicity. A much larger accentuation project is underway, attempting to account for the entire Sanskrit accentuation regime. 
+For compunds, please use a hyphen between the members of the compund.
+
+A much larger accentuation project is underway, attempting to account for the entire Sanskrit accentuation regime. 
